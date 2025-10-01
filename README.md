@@ -34,7 +34,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Pivot Tables](PivotTables.png)
+!\[Pivot Tables](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/PivotTables.png)
 
 
 
@@ -48,7 +48,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Dashboards](Dashboards.png)
+!\[Dashboards](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/Dashboards.png)
 
 
 
