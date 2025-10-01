@@ -32,7 +32,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 \- The number of bikes purchased by age group.
 
-!\[Pivot Tables](images/pivottables.png)
+!\[Pivot Tables](images/pivottable.png)
 
 
 
@@ -46,7 +46,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Dashboards](images/dashboards.png)
+!\[Dashboards](images/dashboard.png)
 
 
 
