@@ -34,7 +34,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Pivot Tables](images/PivotTables.png)
+!\[Pivot Tables](PivotTables.png)
 
 
 
@@ -48,7 +48,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Dashboards](images/Dashboards.png)
+!\[Dashboards](Dashboards.png)
 
 
 
