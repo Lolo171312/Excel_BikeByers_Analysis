@@ -32,9 +32,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 \- The number of bikes purchased by age group.
 
-
-
-!\[Pivot Tables](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/PivotTables.png)
+!\[Pivot Tables](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/PivotTables.png?raw=true)
 
 
 
@@ -48,7 +46,7 @@ Pivot Tables were used to summarize key insights, such as:
 
 
 
-!\[Dashboards](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/Dashboards.png)
+!\[Dashboards](https://github.com/Lolo171312/Excel\_BikeByers\_Analysis/blob/main/images/Dashboards.png?raw=true)
 
 
 
